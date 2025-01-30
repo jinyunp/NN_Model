@@ -5,18 +5,18 @@
 조업편차분석.txt
 
 ## MLP folder
-MLP/01_neuralnetwork_flow_박진윤
-MLP/00_neuralnetwork
+MLP/01_neuralnetwork_flow_박진윤.ipynb
+MLP/00_neuralnetwork.ipynb
 
 ##RRN folder
-RNN/01_LSTM
-RNN/00_1_RNN
-RNN/00_RNN
-RNN/01_LSTM_박진윤
+RNN/01_LSTM.ipynb
+RNN/00_1_RNN.ipynb
+RNN/00_RNN.ipynb
+RNN/01_LSTM_박진윤.ipynb
 
 ##Seq2Seq folder
-Seq2Seq/[AI마법사]20240830_seq2seq_박진윤
-Seq2Seq/[AI마법사]20240919_seq2seq_박진윤
+Seq2Seq/[AI마법사]20240830_seq2seq_박진윤.py
+Seq2Seq/[AI마법사]20240919_seq2seq_박진윤.py
 Seq2Seq/wip
-Seq2Seq/AIwiz_ed
-Seq2Seq/environment
+Seq2Seq/AIwiz_ed.py
+Seq2Seq/environment.yml
