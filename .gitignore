@@ -1,5 +1,22 @@
 .ipynb_checkpoints
-iris.csv
+*.csv
 *.pptx
 *.ecm
 조업편차분석.txt
+
+## MLP folder
+MLP/01_neuralnetwork_flow_박진윤
+MLP/00_neuralnetwork
+
+##RRN folder
+RNN/01_LSTM
+RNN/00_1_RNN
+RNN/00_RNN
+RNN/01_LSTM_박진윤
+
+##Seq2Seq folder
+Seq2Seq/[AI마법사]20240830_seq2seq_박진윤
+Seq2Seq/[AI마법사]20240919_seq2seq_박진윤
+Seq2Seq/wip
+Seq2Seq/AIwiz_ed
+Seq2Seq/environment
