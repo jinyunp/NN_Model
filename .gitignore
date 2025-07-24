@@ -1,21 +1,9 @@
 .ipynb_checkpoints
-*.csv
-*.pptx
-*.ecm
-조업편차분석.txt
 
 ## MLP folder
-MLP/01_neuralnetwork_flow_박진윤.ipynb
-MLP/00_neuralnetwork.ipynb
+MLP/dataset
 
 ##RRN folder
-RNN/01_LSTM.ipynb
-RNN/00_1_RNN.ipynb
-RNN/00_RNN.ipynb
-RNN/01_LSTM_박진윤.ipynb
 
 ##Seq2Seq folder
-Seq2Seq/*.py
 Seq2Seq/wip
-Seq2Seq/AIwiz_eg.py
-Seq2Seq/enviroment.yml
